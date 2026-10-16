@@ -1,0 +1,14 @@
+{
+  "name": "agent-workflow-rules",
+  "version": "0.1.2",
+  "description": "Reusable workflow, development, completion, and Git rules extracted from the repository AGENTS.md workflow bundle.",
+  "author": {
+    "name": "Charlotte Code"
+  },
+  "keywords": [
+    "workflow",
+    "development",
+    "git",
+    "agents"
+  ]
+}
